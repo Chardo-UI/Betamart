@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\UKK\UKK\bin\Debug\UKK.exe.config
+C:\Users\HP\source\repos\UKK\UKK\bin\Debug\UKK.exe
+C:\Users\HP\source\repos\UKK\UKK\bin\Debug\UKK.pdb
+C:\Users\HP\source\repos\UKK\UKK\obj\Debug\UKK.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\UKK\UKK\obj\Debug\UKK.Form1.resources
+C:\Users\HP\source\repos\UKK\UKK\obj\Debug\UKK.Properties.Resources.resources
+C:\Users\HP\source\repos\UKK\UKK\obj\Debug\UKK.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\UKK\UKK\obj\Debug\UKK.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\UKK\UKK\obj\Debug\UKK.exe
+C:\Users\HP\source\repos\UKK\UKK\obj\Debug\UKK.pdb
+C:\Users\HP\source\repos\UKK\UKK\obj\Debug\UKK.Form2.resources
